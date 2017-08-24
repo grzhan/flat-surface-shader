@@ -7,7 +7,7 @@ var FILE_ENCODING = 'utf-8',
     PROJECT_NAME  = 'fss',
     LICENSE       = '../LICENSE.md',
     SOURCE_DIR    = '../source',
-    OUTPUT_DIR    = '../deploy',
+    OUTPUT_DIR    = '../dist',
     SCRIPTS       = [
         'Core.js',
         'Math.js',
