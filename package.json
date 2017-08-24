@@ -2,9 +2,9 @@
   "name": "flat-surface-shader-unofficial",
   "version": "0.1.0",
   "description": "Unofficial distribution of flat-surface-shader",
-  "main": "index.js",
+  "main": "dist/fss.js",
   "repository": "https://github.com/grzhan/flat-surface-shader",
-  "author": "grzhan <envy518@gmail.com>",
+  "author": "wagerfield<matthew@wagerfield.com>",
   "license": "MIT",
   "devDependencies": {
     "uglify-js": "2.2.5"
